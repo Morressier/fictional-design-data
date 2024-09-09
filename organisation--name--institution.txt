@@ -1,0 +1,301 @@
+AMEOS Klinikum Hildesheim
+Adnan Menderes University
+Afyon Kocatepe University
+Airedale General Hospital
+Akron Children's Hospital
+Albany Molecular Research
+Altnagelvin Area Hospital
+Asahikawa Medical College
+Ashiya Municipal Hospital
+Assad University Hospital
+Assembly of First Nations
+Astana Medical University
+Augusta Victoria Hospital
+Bachir Ben Nacer Hospital
+Beijing Normal University
+Beijing Tian Tan Hospital
+Belgorod State University
+Bernardo Houssay Hospital
+Bethel Investment Network
+Bon Secours Health System
+Brest University Hospital
+Bursa Tecnical University
+Cabinet de Parodontologie
+Calderdale Royal Hospital
+Cancer Institute Hospital
+Candiolo Cancer Institute
+Capital Normal University
+Capital Region of Denmark
+Capital Regional District
+Carolina's Pain Institute
+Center for Costal Studies
+Centre Antoine Lacassagne
+Centre for Cancer Biology
+Charles Darwin University
+Charles University Pilsen
+Charles University Prague
+Chiba University Hospital
+Children's Mercy Hospital
+Christian Medical College
+Clinical Hospital Dubrava
+College of the Holy Cross
+Colorado State University
+Czech Academy of Sciences
+DDL Diagnostic Laboratory
+Daegu Catholic University
+Dagestan State University
+Dainippon Sumitomo Pharma
+Dalian Medical University
+Danube Private University
+Dasman Diabetes Institute
+Desert Research Institute
+Diego Portales University
+Doncaster Royal Infirmary
+Dorothy Pattison Hospital
+Edinburgh Royal Infirmary
+Ehime University Hospital
+European Forest Institute
+Fachhochschule St. Pölten
+Federal University Wukari
+Fondazione San Sebastiano
+Forest Research Institute
+Fujian Medical University
+Fukushima Medical College
+Gansu Provincial Hospital
+Gateway Technical College
+Gebze Tecnical University
+Geha Mental Health Center
+General Hospital Sint-Jan
+General Hospital of Volos
+Grenoble Alpes University
+Guilin Medical University
+HACEY's Health Initiative
+Hamad Medical Corporation
+Hamamatsu Pharma Research
+Harbin Medical University
+Hasan Kalyoncu University
+Health Sciences Authority
+Heinrich Heine University
+Himeji Red Cross Hospital
+Hochschule für Gesundheit
+Hokkaido Tokai University
+Hokusei Gakuen University
+Hopitaux Civils de Colmar
+Hospital Clínic Barcelona
+Hospital Moinhos de Vento
+Hospital San Juan de Dios
+Hospital Virgen de la Luz
+Hospital de Santo António
+Hunter New England Health
+Hyogo College of Medicine
+Hôpital Jeanne de Flandre
+Ibero American University
+Ineco Neurociencias Oroño
+Institut Pasteur de Tunis
+Institute Paoli Calmettes
+Institute of Child Health
+IntraHealth International
+Inverclyde Royal Hospital
+Ireland's Health Services
+Israel Ministry of Health
+Istanbul Aydin University
+Istanbul Bilgi University
+Istanbul Bilim University
+Istanbul Memorial Hospital
+Istanbul Rumeli University
+Istituto Giannina Gaslini
+Istituto Oncologico Veneto
+Jan Kochanowski University
+Japanese Red Cross Society
+Jiangsu Province Hospital
+Jissen Women's University
+Kafr El-Sheikh University
+Kalmar University College
+Kanagawa Dental University
+Kansai Medical University
+Kaohsiung Medical College
+Kemerovo State University
+Kennesaw State University
+Kenyatta National Hospital
+Kettering General Hospital
+Khyber Medical University
+King Abdul Aziz University
+King Abdulaziz University
+Klinikum Frankfurt Höchst
+Klinikum Südstadt Rostock
+Klinikum Wels Grieskirchen
+Klinička bolnica Sveti Duh
+Klinički Centar Crne Gore
+Klinički centar Vojvodine
+Kongju National University
+Kosair Children's Hospital
+Kostroma State University
+Krajská Nemocnice Liberec
+Krankenhaus Sachsenhausen
+Krankenhaus Tabea Hamburg
+Kumamoto Central Hospital
+Kunming Medical University
+Kunsan National University
+Kuopio University Hospital
+Kurashiki Central Hospital
+Kwansei Gakuin University
+Kyoto University Hospital
+Kyushu Women's University
+Laboratoires Expanscience
+Leeds Children's Hospital
+Leicester General Hospital
+Liaquat National Hospital
+Liverpool Women's Hospital
+Londrina State University
+Longgang Central Hospital
+Louisiana State University
+Loyola University Chicago
+Lungenklinik Köln Merheim
+Lurie Children's Hospital
+Maimonides Medical Center
+Makassed General Hospital
+Manchester Royal Infirmary
+Marienkrankenhaus Hamburg
+Martin Luther Krankenhaus
+Mayo Clinic Health System
+Medical Academy in Gdansk
+Medical Academy in Lublin
+Medical Academy in Wroclaw
+Medical Academy of Latvia
+Medical University Pleven
+Medical University Plovdiv
+Medisch Centrum Haaglanden
+Medisch Centrum Leeuwarden
+Meiji College of Pharmacy
+Memorial Antalya Hospital
+Memorial Atasehir Hospital
+Mercy University Hospital
+MetroHealth Medical Center
+Military Hospital of Tunis
+Monash Children’s Hospital
+Mordovian State University
+Muteesa I Royal University
+Nagano Children's Hospital
+Nagoya University Hospital
+Nanjing Medical University
+National Chiayi University
+National Stroke Foundation
+National Taipei University
+National Taiwan University
+National Screening Service
+New York Eye Cancer Center
+Newham University Hospital
+Nishtar Medical University
+Odense University Hospital
+Ordine psicologi Lombardia
+Organisation Against Drugs
+Ospedale Infermi di Rimini
+Ospedale Maurizio Bufalini
+Ospedale San Luigi Gonzaga
+Ospedali Riuniti Umberto I
+Ospedali Riuniti di Ancona
+Paris Descartes University
+Pasteur Hellenic Institute
+Pasteur Institute of Lille
+Perm State Medical Academy
+Peterborough City Hospital
+Pitié Salpêtrière Hospital
+Polish Academy of Sciences
+Princess Margaret Hospital
+Pushpagiri Medical College
+Rennes University Hospital
+Republic Klaipeda Hospital
+Research Toxicology Center
+Rochester General Hospital
+Royal Bournemouth Hospital
+Royal Hallamshire Hospital
+Royal North Shore Hospital
+Royal Orthopaedic Hospital
+Russian Academy of Justice
+Sahloul Hospital of Sousse
+Saiseikai Central Hospital
+Saitama Medical University
+Samarkand State University
+San Diego State University
+Santa Maria Nuova Hospital
+Sao Paulo State University
+Sapporo Medical University
+Shandong Melion Industrial
+Shandong Normal University
+Shanghai Normal University
+Sheffield Kidney Institute
+ShenZhen People’s Hospital
+Shyam Shah Medical College
+Singapore General Hospital
+Slovak Academy of Sciences
+Southern Medial University
+Spinal Cord Injury Ontario
+St. John's Medical College
+Statistiska Konsultgruppen
+Stroke Alliance for Europe
+Stroke Recovery Foundation
+Tarbiat Modares University
+Team Kinderwunsch Hannover
+Tennessee State University
+Tianjin Medical University
+Toda Chuo General Hospital
+Tohoku College of Pharmacy
+Tokushima Bunri University
+Tomishiro Central Hospital
+Universidad Mariano Gálvez
+Universidad de Antofagasta
+Universidad de Guadalajara
+Universidad de La Frontera
+Universidad de Puerto Rico
+Universidad del Desarrollo
+Universidad del País Vasco
+Universidade Estácio de Sá
+Universidade de Pernambuco
+Universidade do Grande Rio
+Universitas Pelita Harapan
+Universitas Sumatera Utara
+University Clinical Centre
+University Hospital Galway
+University of Bedfordshire
+University of Huddersfield
+University of Johannesburg
+University of Livingstonia
+University of Maine System
+University of North Dakota
+University of Paris Saclay
+University of Pennsylvania
+University of Rhode Island
+University of Saint Joseph
+University of Saskatchewan
+University of South Africa
+University of Stellenbosch
+University of Sulaymaniyah
+University of West Florida
+University of the Republic
+University of the Sciences
+Università Iuav di Venezia
+Universität Duisburg-Essen
+Universität Kaiserslautern
+Universität Koblenz-Landau
+Universität des Saarlandes
+Universitätsklinikum Tulln
+Université Djillali Liabes
+Université de Mons-Hainaut
+VID Specialized University
+Vancouver General Hospital
+Vestische Caritas Kliniken
+Vilela Children's Hospital
+Voluntary Service Overseas
+Vrije Universiteit Brussel
+Vytautas Magnus University
+Wake Forest Baptist Health
+Warsaw School of Economics
+Wilfrid Laurier University
+Witten/Herdecke University
+Wojskowy Instytut Medyczny
+Women and Newborn Hospital
+Yukon Hospital Corporation
+Zhejiang Xiaoshan Hospital
+Zuyderland Medisch Centrum
+Élisabeth Bruyère Hospital
+Örebro University Hospital

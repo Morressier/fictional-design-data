@@ -1,0 +1,1044 @@
+absolute alcohol
+absolute error
+absolute temperature
+absolute uncertainty
+absolute zero
+absorbance
+absorption
+absorption spectroscopy
+absorption spectrum
+absorptivity
+accessibility
+accuracy
+acene
+acid
+acid anhydride
+acid dissociation constant
+acid-base indicator
+acid-base titration
+acidic solution
+actinides
+actinium
+activated complex
+activation energy
+active transport
+activity series
+actual yield
+acute health effect
+acyl group
+adsorption
+adult brain
+adulterant
+aether
+affinity purification
+ag-cu
+aging
+alchemy
+alcohol
+alendronate
+aliphatic amino acid
+aliphatic compound
+aliphatic hydrocarbon
+alkali metal
+alkaline
+alkalinity
+alkene
+alkenyl group
+alkoxide
+alkoxy group
+all-solid-state batteries
+allotrope
+alloy
+alpha decay
+alpha radiation
+aluminum or aluminium
+amalgam
+americium
+amide
+amine
+amino acid
+amino acids
+amorphous
+amphiprotic
+amphoteric
+amphoteric oxide
+analytical chemistry
+angiography
+angstrom
+angular momentum quantum number
+anhydrous
+anion
+anode
+anti-markovnikov addition
+anti-periplanar
+antibody purification
+antibonding orbital
+antimony
+aqua regia
+aqueous
+aqueous solution
+argon
+aromatic compound
+arrhenius acid
+arrhenius base
+arsenic
+aryl
+astatine
+astronomical implications
+asymmetric slab
+atmosphere
+atom
+atomic mass
+atomic mass unit (amu)
+atomic number
+atomic radius
+atomic solid
+atomic volume
+atomic weight
+aufbau principle
+austenite
+avogadro's law
+avogadro's number
+azeotrope
+azimuthal quantum number
+back titration
+background radiation
+balanced equation
+balmer series
+bamboo
+barium
+barometer
+base
+base anhydride (basic anhydride)
+base metal
+basic
+basic solution
+battery electrodes
+beer's law (beer-lambert law)
+berkelium
+beryllium
+beta decay
+beta particle
+beta radiation
+bimetallic
+bimetallic nanoparticle
+binary acid
+binary compound
+binding energy
+biochar
+biochemistry
+bioconjugation
+biofuel
+biomarker detection
+bioprocessing
+bioremediation
+biotinylation
+bismuth
+bisphosphonates
+bitumen
+black light
+block copolymer
+bohrium
+boiling
+boiling point
+boiling point elevation
+bond
+bond angle
+bond energy
+bond enthalpy
+bond length
+bond order
+bond-dissociation energy
+boron
+bow hunter syndrome
+boyle's law
+bpccs
+brain
+branched chain alkane
+brass
+bromine
+bronsted-lowry acid
+bronsted-lowry base
+bronze
+buffer
+cadmium
+caffeine
+calcium
+calorie
+calorimeter
+cancer theranostics
+capillary action
+capsaicin
+carbon
+carbon aerogel
+carbonate
+carbonyl
+carboxyl group
+case of the day
+case series
+catalyst
+catenation
+cathode
+cathode ray tube
+cation
+cellulose
+celsius temperature scale
+cerium
+cesium
+cetane number (cn)
+chain reaction
+characterization
+charge
+charles's law
+chelate
+chemical
+chemical change
+chemical energy
+chemical equation
+chemical equilibrium
+chemical exposure
+chemical formula
+chemical kinetics
+chemical property
+chemical reaction
+chemical symbol
+chemiluminescence
+chemistry
+cherenkov radiation
+chiral center
+chirality
+chlorine
+chlorofluorocarbon
+chromatography
+chromium
+chromophore
+cl and cl2- radicals
+closed system
+co2 fixation
+co2 reduction
+coagulation
+cobalt
+cobalt complexes
+cobalt phosphide
+coenzyme
+cohesion
+collagen
+colligative properties
+colloid
+combination reaction
+combined gas law
+combustion
+common-ion effect
+complex ion
+composite solid electrolyte
+compound
+concentrated
+concentration
+condensation
+condensation reaction
+condensed formula
+conductor
+conformer
+congener
+congenital
+conjugate
+conjugate acid
+conjugate base
+conservation of energy
+conservation of mass
+controlled variable
+conversion factor
+coordinate bond
+coordination complex
+coordination compound
+coordination number
+copernicium
+copper
+copper electrocatalysts
+corrosion
+corrosive
+coulomb's law
+covalent bond
+covalent compound
+covalent inhibitor
+covalent radius
+crenation
+critical point
+crude oil
+cryogenic characterization
+crystal
+crystal field splitting
+crystallize
+curium
+current
+cyanobacteria-containing sludge
+cyrogenics
+dalton's law
+darmstadtium
+database mining
+dative bond
+daughter isotope
+de broglie equation
+decantation
+decomposition reaction
+deflagration
+dehydration reaction
+deliquescence
+delocalized electron
+density
+dependent variable
+deposition
+deprotonation
+derived unit
+desiccant
+desublimation
+detergent
+dewatering performance
+dft studies
+diagnostic angiography
+diamagnetic
+diffusion
+dilute
+dipole
+dipole moment
+diprotic acid
+direct proportion
+disaccharide
+displacement reaction
+disproportionation
+dissociation reaction
+dissolve
+distillate
+distillation
+divalent cation
+double bond
+double replacement reaction
+drug delivery
+drugs
+dry ice
+dubnium
+ductile
+dynamic equilibrium
+dysprosium
+effective nuclear charge
+effervescence
+efflorescence
+effusion
+einsteinium
+elasticity
+electrical characterization
+electrical conductivity
+electrical resistivity
+electrochemical cell
+electrochemistry
+electrode
+electrolysis
+electrolyte
+electrolytic cell
+electromagnetic radiation
+electromotive force
+electron
+electron affinity
+electron capture (ec)
+electron cloud
+electron configuration
+electron density
+electron domain
+electron microscopy
+electron pair repulsion
+electron spin
+electron-sea model
+electronegativity
+electrophile
+electroplating
+electrostatic forces
+electrum
+element
+element symbol
+elementary reaction
+emission spectrum
+emissions
+empirical formula
+emulsifier
+emulsion
+enantiomer
+endothermic
+enediol
+energy
+energy storage materials
+enteropeptidase
+enthalpy
+enthalpy change
+enthalpy of atomization
+enthalpy of reaction
+entropy
+environmental
+enzyme
+eponyms
+equilibrium constant
+equivalence point
+erbium
+essential amino acid
+essential oils
+ester
+ether
+ethylene
+europium
+eutectic
+evaporation
+exafs
+excess reactant
+excited state
+exergonic
+exothermic
+exothermic reaction
+extensive property
+f orbital
+face
+family
+fa​raday constant
+fatty acid
+feedstock
+femtosecond ionization
+fermium
+ferrihydrite
+fire point
+first law of thermodynamics
+fission
+flame test
+flammable
+flavin monooxygenase
+fluid
+fluorescence
+fluorescent
+fluorogenic
+foam
+force
+forensics
+formal charge
+formation reaction
+formula mass or formula weight
+fractional distillation
+francium
+free energy
+free radical
+freezing
+freezing point
+freezing point depression
+frequency
+fuel cell
+functional groups or functional moiety
+functional materials
+fusion
+fviii
+gadolinium
+gallium
+galvanic cell
+gamma radiation
+garnet
+gas constant (r)
+gas diffusion electrode
+gay-lussac's law
+gelatin
+geometric isomer
+germanium
+gibbs free energy
+glass
+glycosidic bond
+goethite
+gold
+graham's law
+grain alcohol
+gram
+gram molecular mass
+gravimetric analysis
+green chemistry
+ground state
+group
+group b streptococcus
+h + acetamide
+h + formamide
+h + methyl formate
+h-abstraction
+haber process
+hafnium
+hair analysis
+half-cell
+half-life (t1/2)
+halide ion
+halogen
+halogenated hydrocarbon
+hard water
+hassium
+head and neck
+heat
+heat capacity
+heat of formation ( δhf)
+heat of fusion ( δhfus)
+heavy metal
+heisenberg uncertainty principle
+helium
+hemophilia a
+henderson-hasselbalch equation
+henry's law
+hess's law
+heterogeneous
+heterogeneous catalysis
+heterogeneous mixture
+heterogeneous reaction
+holmium
+homogeneous
+homopolymer
+hot sauce
+human milk oligosaccharides
+hybrid orbital
+hydration reaction
+hydrocarbon
+hydroconversion
+hydrogen
+hydrogen bond
+hydrogen car
+hydrogenation
+hydrolysis
+hydrometer
+hydronium ion
+hydrophobic
+hydroxyl group
+hygroscopic
+hypertonic
+hypothesis
+ideal gas
+ideal gas constant
+ideal gas law
+imaging
+immiscible
+immunoproteomics
+incorporation
+independent variable
+indicator
+indium
+inductive effect
+inhibitor
+inhibitory antibodies
+inorganic chemistry
+insoluble
+intensive property
+interface engineering
+intermediate
+intermolecular force
+internal energy
+intramolecular rearrangement
+intrinsic property
+inverse proportion
+iodine
+ionic
+ionic bond
+ionic compound
+ionic equation
+ionic radius
+ionization energy
+iridium
+iron
+iron-nitrosyl
+ischemic optic neuropathy
+isoelectronic
+isolated system
+isomer
+isomerization process
+isotopes
+iupac
+joule
+kelvin temperature scale
+keratin
+ketone
+kilo
+kilopascal (kpa)
+kinetic energy
+krebs cycle
+krypton
+labile complex
+lactone
+lanthanides
+lanthanum
+latin america
+lattice energy
+law of chemical equilibrium
+law of combining volumes
+law of conservation of energy
+law of conservation of mass
+law of constant composition
+law of definite proportions
+law of multiple proportions
+lawrencium
+le chatelier′s principle
+lead
+lepidocrocite
+lewis acid
+lewis acid base reaction
+lewis base
+lewis structure
+ligand
+light olefins
+limiting reactant
+lipid
+liquefaction
+liquid
+lithium
+lithium sulfur batteries
+litmus paper
+london dispersion force
+lone pair
+luminescence
+lutetium
+lysine
+macromolecule
+madelung's rule
+magnesium
+magnetite
+main group elements
+makerspace
+malleable
+mandible
+manganese
+manometer
+mass
+mass defect
+mass number
+mass percentage
+mass spectroscopy
+materials
+matter
+measurement
+mechanism
+media
+medicinal chemistry
+meitnerium
+melting
+melting point
+mendelevium
+meniscus
+mercaptan
+mercapto group
+mercury
+mesoporous
+metabolism
+metabolomics
+metal
+metallic character
+metallic compound
+metalloid
+metalphosphide
+meter
+methanesulfonate
+methyl
+micro-ct
+micro-electromechanical system
+microbeam
+microliter
+micron
+mineral acid
+mining
+miscible
+mixture
+moderator
+mohs scale
+moiety
+molality
+molar
+molar enthalpy of fusion
+molar enthalpy of vaporization
+molar heat capacity
+molar mass
+molar volume
+molarity
+mole
+mole fraction
+mole ratio
+molecular equation
+molecular formula
+molecular geometry
+molecular mass
+molecular orbital
+molecular weight
+molecule
+molybdate
+molybdenum
+monatomic ion
+monday
+monomer
+monoprotic acid
+mother liquor
+moyamoya
+msds
+multiple bond
+muriatic acid
+naclo-fe(ii)
+nanoemulsion
+nanoparticles
+nanoscale metal-organic frameworks
+naphthenes
+natural abundance
+neodymium
+neon
+neptunium
+net ionic equation
+network solid
+neutral solution
+neutralization
+neutron
+newton (n)
+nickel
+nickel complexes
+niobium
+nitrogen
+nobelium
+noble gas
+noble gas core
+nonbonding electron
+nonelectrolyte
+nonheme
+nonmetal
+nonoxidizing acid
+nonpolar bond
+nonpolar molecule
+nonspontaneous reaction
+nonvolatile
+normal boiling point
+normal concentration
+normal melting point
+normality (n)
+nuclear fission
+nuclear radiation
+nucleation
+nucleophile
+nucleotide
+nucleus
+nuclide
+null hypothesis
+nutraceutical
+octahedra
+octane number
+octet
+octet rule
+open system
+orbital
+organic chemistry
+organoborane polymer
+origin of life
+osmium
+osmosis
+osteolytic metastases
+oxidant
+oxidation
+oxidation number
+oxidation state
+oxide
+oxidizer
+oxidizing agent
+oxyanion
+oxygen
+palladium
+para-hydrogen
+paramagnetism
+parent atom
+parent nuclide
+partial pressure
+particulate
+parts per million (ppm)
+pascal (pa)
+pathology
+pauli exclusion principle
+pdms
+pediatrics
+people with disabilities
+percent composition
+percent yield
+percolated network
+period
+periodic law
+periodic table
+periodic trend
+periodicity
+perioperative ion
+periplanar
+peroxide
+petroleum
+ph indicator
+ph meter
+phase
+phase change
+phase diagram
+phenolphthalein
+phlogiston
+phosphate
+phosphorescence
+phosphorus
+photon
+photoswitches
+physical change
+physical property
+pi bond
+planck's constant
+plant sections
+plant-based
+plasma
+platinum
+plutonium
+pnictogen
+polar bond
+polar molecule
+polonium
+polyatomic ion
+polymer
+polymers
+polynuclear aromatic hydrocarbon
+polyprotic acid
+porous organic cages
+positron
+postoperative ion
+potassium
+potential difference
+potential energy
+praseodymium
+prebiotic chemistry
+precipitate
+precipitation
+precipitation reaction
+pressure
+primary standard
+principal energy level
+principal quantum number
+probes
+product
+promethium
+proof
+property
+protactinium
+proton
+protonation
+pure substance
+qualitative analysis
+quantitative analysis
+quantum
+quantum dots
+quantum number
+radiation
+radiation therapy
+radioactive tracer
+radioactivity
+radium
+radon
+raman
+raman spectroscopy
+raoult's law
+rate constants
+rate-capability
+reactant
+reaction
+reaction mechanism
+reaction quotient
+reaction rate
+reagent
+real gas
+redox indicator
+redox reaction
+redox titration
+reduction
+refrigerant
+relative density
+relative error
+relative standard deviation
+relative uncertainty
+residue
+resonance
+reverse osmosis
+reversible reactions
+rhenium
+rhodium
+roasting
+roentgenium
+room temperature
+rotational vertebral artery occlusion
+rubidium
+ruthenium
+rutherfordium
+salt
+salt bridge
+samarium
+saponification
+saturated
+saturated fat
+saturated solution
+scandium
+schiff base
+science
+scientific law
+scientific method
+scoville units
+seaborgium
+second quantum number
+selenium
+semi-metal
+series
+serine protease
+shape
+sigma bond
+simplest formula
+single displacement reaction
+single-molecule junction
+singlet oxygen
+sinonasal
+skeletal structure
+skull base
+sodium
+soft crystals
+solid
+solidification
+solubility
+solubility product
+solute
+solution
+solvent
+specific gravity
+specific heat
+specific heat capacity
+spectator ion
+spectroscopy
+spectrum
+sphalerite
+spin quantum number (ms)
+spontaneous fission
+spontaneous process
+standard
+standard hydrogen electrode
+standard oxidation potential
+standard reduction potential
+standard solution
+standard temperature and pressure
+staphylococcus aureus
+state of matter
+steam distillation
+steel
+steric number
+stimuli-responsive
+stock solution
+stoichiometry
+stroke
+strong acid
+strong base
+strong electrolyte
+strontium
+student safety
+sublimation
+subshell
+substituent
+substitution reaction
+substrate
+sulfur
+supernate
+supersaturated
+surface energy
+surface tension
+surfactant
+surgical ion
+suspension
+synthesis reaction
+tantalum
+target id
+technetium
+tellurium
+temperature
+terbium
+tetrahedra
+tetrahedral
+texas carbon
+thallium
+theoretical yield
+theory
+thermodynamics
+thermosetting plastic
+thin films
+thiol
+thiol group
+thiolate
+thorium
+thrombus
+thulium
+tim barrel
+time-resolved spectroscopy
+tincture
+titanium
+titrant
+titration
+torr
+toxicology
+trans isomer
+transition interval
+transition metal
+transition metal catalysis
+translational energy
+transmute
+triple point
+tungsten
+tyndall effect
+ubiquicidin
+ultraviolet radiation
+un id
+un number
+unit
+universal gas constant
+universal indicator
+universal solvent
+unsaturated
+unsaturated fat
+unsaturated solution
+uranium
+vacuum
+valence
+valence bond theory
+valence electron
+valence shell electron pair repulsion theory
+van der waals forces
+van der waals radius
+vanadium
+vapor
+vapor pressure
+vaporization
+vector
+vibrational wave packet
+viscosity
+visible light
+volatile
+volume
+volume-volume percentage
+volumetric flask
+vsepr
+water
+water gas
+water of crystallization
+water of hydration
+wave-particle duality
+wavefunction
+wavelength
+weak acid
+weak base
+weak electrolyte
+wedge-and-dash projection
+weight
+word equation
+work
+working solution
+wound biofilm
+x-ray crystallography
+x-ray scattering
+x-rays
+xenon
+yield
+ytterbium
+yttrium
+zaitsev rule
+zeta potential (ζ-potential)
+zinc
+zinc finger inhibitors
+zirconium
+zwitterion

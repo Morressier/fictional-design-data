@@ -1,0 +1,55 @@
+Adelaide SA 5000, Australia
+Amsterdam, Netherlands
+Antwerp, Belgium
+Athens, Greece
+Austin, TX, USA
+Barcelona, Spain
+Belfast, UK
+Berlin, Germany
+Charleston, SC, USA
+Delft, The Netherlands
+Dublin, Ireland
+Dubrovnik, Croatia
+Edinburgh, UK
+Erlangen, Germany
+Feldkirch, Österreich
+Florence, Italy
+Frankfurt, Germany
+Freiburg, Germany
+Geneva, Switzerland
+Glasgow, UK
+Halifax, NS, Canada
+Hamburg, Deutschland
+Harrogate, UK
+Helsinki, Finnland
+Krakow, Poland
+Köln, Deutschland
+La Paz, Baja California Sur, México
+Las Vegas, NV, USA
+Leipzig, Germany
+Lisbon, Portugal
+Ljubljana, Slovenia
+London, UK
+Madrid, Spain
+Malmö, Sweden
+Montreal, QC, Canada
+Moscow, Russia
+Nijmegen, Netherlands
+Nuremberg, Germany
+Ottawa, Canada
+Oxford, Oxford, Vereinigtes Königreich
+Oxford, UK
+Parijs, Frankrijk
+Paris, France
+Prag, Tschechische Republik
+Prague, Czechia
+Rotterdam
+Salzburg, Austria
+Stockholm, Schweden
+Toronto, ON, Canada
+Vancouver, BC, Canada
+Victoria, BC, Canada
+Vienna, Austria
+Whistler, BC V0N, Canada
+Wien, Österreich
+Würzburg, Germany

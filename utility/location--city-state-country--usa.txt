@@ -1,0 +1,366 @@
+Cary, NC, United States
+Iowa, IA, United States
+Kent, WA, United States
+Mesa, AZ, United States
+Ohio, OH, United States
+Reno, NV, United States
+Utah, UT, United States
+Waco, TX, United States
+Akron, OH, United States
+Allen, TX, United States
+Davie, FL, United States
+Elgin, IL, United States
+Fargo, ND, United States
+Idaho, ID, United States
+Maine, ME, United States
+Miami, FL, United States
+Omaha, NE, United States
+Plano, TX, United States
+Provo, UT, United States
+Salem, OR, United States
+Tampa, FL, United States
+Tempe, AZ, United States
+Texas, TX, United States
+Tulsa, OK, United States
+Tyler, TX, United States
+Vista, CA, United States
+Alaska, AK, United States
+Arvada, CO, United States
+Aurora, CO, United States
+Aurora, IL, United States
+Austin, TX, United States
+Boston, MA, United States
+Clovis, CA, United States
+Corona, CA, United States
+Dallas, TX, United States
+Dayton, OH, United States
+Denton, TX, United States
+Denver, CO, United States
+Downey, CA, United States
+Durham, NC, United States
+Edison, NJ, United States
+Eugene, OR, United States
+Fresno, CA, United States
+Frisco, TX, United States
+Hawaii, HI, United States
+Irvine, CA, United States
+Irving, TX, United States
+Joliet, IL, United States
+Kansas, KS, United States
+Laredo, TX, United States
+Lowell, MA, United States
+Mobile, AL, United States
+Nevada, NV, United States
+Newark, NJ, United States
+Norman, OK, United States
+Odessa, TX, United States
+Olathe, KS, United States
+Orange, CA, United States
+Oregon, OR, United States
+Oxnard, CA, United States
+Peoria, AZ, United States
+Peoria, IL, United States
+Pomona, CA, United States
+Pueblo, CO, United States
+Renton, WA, United States
+Rialto, CA, United States
+Sparks, NV, United States
+Tacoma, WA, United States
+Toledo, OH, United States
+Topeka, KS, United States
+Tucson, AZ, United States
+Warren, MI, United States
+Abilene, TX, United States
+Alabama, AL, United States
+Anaheim, CA, United States
+Antioch, CA, United States
+Arizona, AZ, United States
+Atlanta, GA, United States
+Boulder, CO, United States
+Brandon, FL, United States
+Buffalo, NY, United States
+Burbank, CA, United States
+Chicago, IL, United States
+Clinton, MI, United States
+Concord, CA, United States
+Detroit, MI, United States
+El Paso, TX, United States
+Everett, WA, United States
+Florida, FL, United States
+Fontana, CA, United States
+Fremont, CA, United States
+Garland, TX, United States
+Georgia, GA, United States
+Gilbert, AZ, United States
+Greeley, CO, United States
+Gresham, OR, United States
+Hampton, VA, United States
+Hayward, CA, United States
+Hialeah, FL, United States
+Houston, TX, United States
+Indiana, IN, United States
+Jackson, MS, United States
+Kenosha, WI, United States
+Killeen, TX, United States
+Lansing, MI, United States
+Lincoln, NE, United States
+Lubbock, TX, United States
+Madison, WI, United States
+McAllen, TX, United States
+Memphis, TN, United States
+Midland, TX, United States
+Miramar, FL, United States
+Modesto, CA, United States
+Montana, MT, United States
+Norfolk, VA, United States
+Norwalk, CA, United States
+Oakland, CA, United States
+Ontario, CA, United States
+Orlando, FL, United States
+Phoenix, AZ, United States
+Raleigh, NC, United States
+Salinas, CA, United States
+Seattle, WA, United States
+Spokane, WA, United States
+Vallejo, CA, United States
+Vermont, VT, United States
+Visalia, CA, United States
+Wichita, KS, United States
+Wyoming, WY, United States
+Yonkers, NY, United States
+Amarillo, TX, United States
+Arkansas, AR, United States
+Beaumont, TX, United States
+Bellevue, WA, United States
+Berkeley, CA, United States
+Billings, MT, United States
+Carlsbad, CA, United States
+Chandler, AZ, United States
+Colorado, CO, United States
+Columbia, MD, United States
+Columbia, MO, United States
+Columbia, SC, United States
+Columbus, GA, United States
+Columbus, OH, United States
+Delaware, DE, United States
+El Cajon, CA, United States
+El Monte, CA, United States
+Glendale, AZ, United States
+Glendale, CA, United States
+Hartford, CT, United States
+Illinois, IL, United States
+Kentucky, KY, United States
+Lakeland, FL, United States
+Lakewood, CO, United States
+Maryland, MD, United States
+McKinney, TX, United States
+Meridian, ID, United States
+Mesquite, TX, United States
+Metairie, LA, United States
+Michigan, MI, United States
+Missouri, MO, United States
+Murrieta, CA, United States
+Nebraska, NE, United States
+New York, NY, United States
+New York, NY, United States
+Oklahoma, OK, United States
+Palm Bay, FL, United States
+Palmdale, CA, United States
+Paradise, NV, United States
+Pasadena, CA, United States
+Pasadena, TX, United States
+Paterson, NJ, United States
+Pearland, TX, United States
+Portland, OR, United States
+Richmond, CA, United States
+Richmond, VA, United States
+Rockford, IL, United States
+San Jose, CA, United States
+Savannah, GA, United States
+St. Paul, MN, United States
+Stamford, CT, United States
+Stockton, CA, United States
+Surprise, AZ, United States
+Syracuse, NY, United States
+Temecula, CA, United States
+Thornton, CO, United States
+Torrance, CA, United States
+Virginia, VA, United States
+Allentown, PA, United States
+Anchorage, AK, United States
+Ann Arbor, MI, United States
+Arlington, TX, United States
+Arlington, VA, United States
+Baltimore, MD, United States
+Cambridge, MA, United States
+Charlotte, NC, United States
+Cleveland, OH, United States
+Daly City, CA, United States
+Davenport, IA, United States
+Elizabeth, NJ, United States
+Escondido, CA, United States
+Fairfield, CA, United States
+Fullerton, CA, United States
+Green Bay, WI, United States
+Henderson, NV, United States
+Hillsboro, OR, United States
+Hollywood, FL, United States
+Inglewood, CA, United States
+Knoxville, TN, United States
+Lafayette, LA, United States
+Lancaster, CA, United States
+Las Vegas, NV, United States
+Louisiana, LA, United States
+Milwaukee, WI, United States
+Minnesota, MN, United States
+New Haven, CT, United States
+Oceanside, CA, United States
+Riverside, CA, United States
+Rochester, MN, United States
+Rochester, NY, United States
+Roseville, CA, United States
+San Mateo, CA, United States
+Santa Ana, CA, United States
+St. Louis, MO, United States
+Sunnyvale, CA, United States
+Tennessee, TN, United States
+Vacaville, CA, United States
+Vancouver, WA, United States
+Waterbury, CT, United States
+Wisconsin, WI, United States
+Worcester, MA, United States
+Alexandria, VA, United States
+Birmingham, AL, United States
+Boise City, ID, United States
+Bridgeport, CT, United States
+California, CA, United States
+Cape Coral, FL, United States
+Carrollton, TX, United States
+Centennial, CO, United States
+Charleston, SC, United States
+Chesapeake, VA, United States
+Cincinnati, OH, United States
+Clearwater, FL, United States
+Costa Mesa, CA, United States
+Des Moines, IA, United States
+Enterprise, NV, United States
+Evansville, IN, United States
+Fort Wayne, IN, United States
+Fort Worth, TX, United States
+Greensboro, NC, United States
+High Point, NC, United States
+Huntsville, AL, United States
+Las Cruces, NM, United States
+Lewisville, TX, United States
+Long Beach, CA, United States
+Manchester, NH, United States
+Montgomery, AL, United States
+Naperville, IL, United States
+New Jersey, NJ, United States
+New Mexico, NM, United States
+Pittsburgh, PA, United States
+Providence, RI, United States
+Richardson, TX, United States
+Round Rock, TX, United States
+Sacramento, CA, United States
+San Angelo, TX, United States
+Santa Rosa, CA, United States
+Scottsdale, AZ, United States
+Shreveport, LA, United States
+South Bend, IN, United States
+Sugar Land, TX, United States
+Tuscaloosa, AL, United States
+Washington, DC, United States
+Washington, WA, United States
+Wilmington, NC, United States
+Albuquerque, NM, United States
+Bakersfield, CA, United States
+Baton Rouge, LA, United States
+Brownsville, TX, United States
+Chattanooga, TN, United States
+Chula Vista, CA, United States
+Clarksville, TN, United States
+Connecticut, CT, United States
+Gainesville, FL, United States
+Jersey City, NJ, United States
+Kansas City, KS, United States
+Kansas City, MO, United States
+League City, TX, United States
+Little Rock, AR, United States
+Los Angeles, CA, United States
+Minneapolis, MN, United States
+Mississippi, MS, United States
+New Orleans, LA, United States
+San Antonio, TX, United States
+Santa Clara, CA, United States
+Santa Maria, CA, United States
+Simi Valley, CA, United States
+Sioux Falls, SD, United States
+Spring Hill, FL, United States
+Springfield, IL, United States
+Springfield, MA, United States
+Springfield, MO, United States
+Tallahassee, FL, United States
+Victorville, CA, United States
+West Covina, CA, United States
+West Jordan, UT, United States
+Westminster, CO, United States
+Broken Arrow, OK, United States
+Cedar Rapids, IA, United States
+Fayetteville, NC, United States
+Fort Collins, CO, United States
+Garden Grove, CA, United States
+Grand Rapids, MI, United States
+Independence, MO, United States
+Indianapolis, IN, United States
+Jacksonville, FL, United States
+Lehigh Acres, FL, United States
+Murfreesboro, TN, United States
+Newport News, VA, United States
+North Dakota, ND, United States
+Pennsylvania, PA, United States
+Philadelphia, PA, United States
+Rhode Island, RI, United States
+San Diego, CA, 8, United States
+South Dakota, SD, United States
+The Villages, FL, United States
+Coral Springs, FL, United States
+Grand Prairie, TX, United States
+Jurupa Valley, CA, United States
+Massachusetts, MA, United States
+Moreno Valley, CA, United States
+New Hampshire, NH, United States
+Oklahoma City, OK, United States
+Overland Park, KS, United States
+Pompano Beach, FL, United States
+San Francisco, CA, United States
+Sandy Springs, GA, United States
+Santa Clarita, CA, United States
+Spring Valley, NV, United States
+Sunrise Manor, NV, United States
+The Woodlands, TX, United States
+Thousand Oaks, CA, United States
+West Virginia, WV, United States
+Wichita Falls, TX, United States
+Winston-Salem, NC, United States
+Corpus Christi, TX, United States
+North Carolina, NC, United States
+Pembroke Pines, FL, United States
+Port St. Lucie, FL, United States
+Salt Lake City, UT, United States
+San Bernardino, CA, United States
+South Carolina, SC, United States
+St. Petersburg, FL, United States
+Virginia Beach, VA, United States
+College Station, TX, United States
+Fort Lauderdale, FL, United States
+Highlands Ranch, CO, United States
+North Las Vegas, NV, United States
+West Palm Beach, FL, United States
+Colorado Springs, CO, United States
+East Los Angeles, CA, United States
+Huntington Beach, CA, United States
+North Charleston, SC, United States
+Rancho Cucamonga, CA, United States
+Sterling Heights, MI, United States
+West Valley City, UT, United States
